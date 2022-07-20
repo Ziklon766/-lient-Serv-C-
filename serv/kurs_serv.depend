@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1653240560 source:e:\3 курс, 2 семестр\Крис\Курсач\kurs_serv\hid.c
+	"hidapi.h"
+	<windows.h>
+	<ntdef.h>
+	<winbase.h>
+	<ntdef.h>
+	<wctype.h>
+	<devpropdef.h>
+	"hidapi_cfgmgr32.h"
+	"hidapi_hidclass.h"
+	"hidapi_hidsdi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653240562 e:\3 курс, 2 семестр\Крис\Курсач\kurs_serv\hidapi.h
+	<wchar.h>
+
+1653240563 e:\3 курс, 2 семестр\Крис\Курсач\kurs_serv\hidapi_cfgmgr32.h
+	<cfgmgr32.h>
+	<initguid.h>
+	<devpkey.h>
+	<propkey.h>
+
+1653240564 e:\3 курс, 2 семестр\Крис\Курсач\kurs_serv\hidapi_hidclass.h
+	<hidclass.h>
+
+1653240565 e:\3 курс, 2 семестр\Крис\Курсач\kurs_serv\hidapi_hidsdi.h
+	<hidsdi.h>
+	"hidapi_hidpi.h"
+
+1653240564 e:\3 курс, 2 семестр\Крис\Курсач\kurs_serv\hidapi_hidpi.h
+	<hidpi.h>
+
+1653764316 source:e:\3 курс, 2 семестр\Крис\Курсач\kurs_serv\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"hidapi.h"
+	<stdint.h>
+	<locale.h>
+	<WinSock2.h>
+
